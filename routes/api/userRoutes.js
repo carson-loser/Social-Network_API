@@ -1,4 +1,4 @@
-// exporting a router
+// exporting router
 const router = require('express').Router();
 
 const {
