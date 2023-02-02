@@ -16,9 +16,6 @@
 
 * When the API POST and DELETE routes are tested in Insomnia, then the user is able to successfully create and delete reactions to thoughts and add and remove friends to a users friend list.
 
-# Live Heroku Link:
--
-
 # GitHub Repository Link: 
--
+- https://github.com/carson-loser/Social-Network_API
 

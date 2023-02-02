@@ -1,4 +1,6 @@
+// exporting a router
 const router = require('express').Router();
+
 const {
   getUsers,
   getSingleUser,
